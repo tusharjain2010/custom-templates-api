@@ -48,10 +48,10 @@
         "templates": [
             {
                 "id": "2",
-                "title": "Hero 1",
-                "thumbnail": "https://library.elementor.com/wp-content/uploads/2018/03/heroo_black_4.png",
+                "title": "Contact Page - Sieger",
+                "thumbnail": "http://siegerinfotech.com/wp-content/uploads/2020/08/Screenshot-2020-08-11-at-12.09.21-AM.png",
                 "tmpl_created": "1520443695",
-                "author": "Elementor",
+                "author": "Tushar Jain",
                 "url": "https://library.elementor.com/blocks/hero-1/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
                 "type": "block",
                 "subtype": "hero",
@@ -66,7 +66,7 @@
                 "title": "Tushar Jain Team",
                 "thumbnail": "http://siegerinfotech.com/wp-content/uploads/2020/08/Screenshot-2020-08-11-at-12.01.46-AM.png",
                 "tmpl_created": "1475067229",
-                "author": "Elementor",
+                "author": "Tushar Jain",
                 "url": "https://library.elementor.com/hero-ui-kit/?utm_source=library&utm_medium=wp-dash&utm_campaign=preview",
                 "type": "page",
                 "subtype": "page",
